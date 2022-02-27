@@ -1,0 +1,404 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvver to twenty eight queries, sent out by Francis Harris to those people he calls Quakers: wherein his spirit is tryed, to be contrary to that spirit that was in all the children of Light, by his own words and infallible proof: his slanders being removed, his queries are groundless: and so the truth cleared, in the sight of the least of the Lords people. / Written in defence of the truth: and for the freeing the Israelite out of the hand of the Ægyptian. J.N.</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89828</idno>
+            <idno type="STC">Wing N262</idno>
+            <idno type="STC">Thomason E854_8</idno>
+            <idno type="EEBO-CITATION">99864253</idno>
+            <idno type="PROQUEST">99864253</idno>
+            <idno type="VID">116478</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89828)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116478)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 129:E854[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvver to twenty eight queries, sent out by Francis Harris to those people he calls Quakers: wherein his spirit is tryed, to be contrary to that spirit that was in all the children of Light, by his own words and infallible proof: his slanders being removed, his queries are groundless: and so the truth cleared, in the sight of the least of the Lords people. / Written in defence of the truth: and for the freeing the Israelite out of the hand of the Ægyptian. J.N.</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>[2], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, and are to be sold at his shop, at the Black-spread-Eagle neere the west end of Pauls, London,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J.N. = James Naylor.</note>
+                  <note>A reply to: Harris, Francis.  Some queries proposed to the consideration of the grand proposers of queries the Quakers.</note>
+                  <note>Annotation on Thomason copy: "October 1 1655"; "This month all [illegible] prohibited, but Political. &amp; ye pub: [illegible]".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harris, Francis. --  Some queries proposed to the consideration of the grand proposers of queries the Quakers --  Early works to 1800.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116478:1" rendition="simple:additions"/>
+            <p>AN ANSVVER To Twenty Eight QUERIES, Sent out by <hi>Francis Harris</hi> to thoſe People he calls <hi>Quakers:</hi> Wherein his ſpirit is tryed, to be contrary to that Spirit that was in all the Children of Light, by his own words and infal<g ref="char:EOLhyphen"/>lible proof: his ſlanders being removed, his Queries are groundleſs: and ſo the truth cleared, in the ſight of the leaſt of the LORDS People.</p>
+            <p>Written in the defence of the truth: and for the freeing the <hi>Iſraelite</hi> out of the hand of the <hi>Aegyptian.</hi> J. N.</p>
+            <p>As Jannes <hi>and</hi> Jambres <hi>withſtood</hi> Moſes: <hi>ſo do theſe reſiſt the truth.</hi>
+            </p>
+            <p>
+               <hi>And they bend the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r tongue like their bow for lyes, but they are not vali<g ref="char:EOLhyphen"/>ant for the truth upon the earth; for they proceed from evil to evil, and they know not me, ſaith the Lord. Take ye heed every one of his neigh<g ref="char:EOLhyphen"/>bour, and truſt ye not in any brother; for every brother will utterly ſup<g ref="char:EOLhyphen"/>plant, and every neighbour will walk with ſlanders, and will not ſpeak the truth they have taught their tongues to ſpeak lyes, and weary them<g ref="char:EOLhyphen"/>ſelves to commit iniquity.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Cal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and are to be ſold at his Shop, at the <hi>Black-ſpread-Eagle</hi> neere the Weſt end of <hi>Pauls, London,</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116478:2"/>
+            <pb n="1" facs="tcp:116478:2"/>
+            <opener>
+               <salute>Francis Harris</salute>
+            </opener>
+            <p>ARt not thou aſhamed to call us the Grand oppoſers of Queries, and thy ſelf hath put forth a whole book of Queries made up of ſlanders and falſe ac<g ref="char:EOLhyphen"/>cuſations which thou ſaies, if rightly conſidered may be a ſtop to prevent falling into the ſnares of the Qua<g ref="char:EOLhyphen"/>kers; and if ſoberly anſwered will occaſion a diſcovery of truth. I ſay, in the anſwer of it, will be diſcovered many of thy lies, by the truth, (though they be too many all to mention) and thy ſelf in the ſnare of Satan, which rightly weighed with thy work thou art found in, may ſerve not only to pre<g ref="char:EOLhyphen"/>vent others for joyning with thee, but alſo to awaken thoſe who are a ſleep in thy ſecurity, for no lyer hath the truth in him; nor no envious perſon hath eternall life, abiding in him; ſo with that light of Chriſt in thy conſcience which thou oppoſeſt, thou maiſt read thy work and thy condemnati<g ref="char:EOLhyphen"/>on; In thy word to the Reader, thou ſaies, that Satan in theſe latter yeares hath beſtirred himſelf to deſtroy the Goſpel and the eſſence of Chriſtianity. I ſay, what Gopel is that thou meanes of, which in this latter yeares hath beene a de<g ref="char:EOLhyphen"/>ſtroying, doſt thou meane the <hi>Papiſts</hi> or the <hi>Biſhops</hi> or ſome branches ſprung from thoſe roots? no other Goſpel is in danger of deſtroying with the light of Chriſt and his infallible Spirit, that thou ſo much oppoſes and ſcornes, with which the work of Chriſt is now carried out againſt all ſuch plants which are not of his planting, them to pluck up for the fire: nay be a<g ref="char:EOLhyphen"/>ſhamed of your profeſſions who have got the fineſt colours to cover you with all; the <hi>Turks</hi> and <hi>Heathen</hi> exceed you in Iuſtice, mercy meekneſſe, and righteouſneſs; this Nation exceeding for wickedneſſe, and the fineſt formes, the greateſt hypocriſie: ſhall you doe all this wickedneſſe, and be delivered in the day of the Lords judgments, by crying the Goſpel, the Sabbath, the Sacraments, the Chruches, the Scriptures, &amp;c. When there is not a verſe in the Scripture wherein you may
+<pb n="2" facs="tcp:116478:3"/> not read your condemnation: ſhall you be hid by ſaying, you are ſinners, but harden your hearts and increaſe in it? ſuch an adulterous and ſtifnecked generation, was never in the world before you, with whom neither judgments nor mercies hath prevailed, and now at his apperance are you gathered a<g ref="char:EOLhyphen"/>gainſt him, from all quarters of the Nations, armed with wea<g ref="char:EOLhyphen"/>pons like your Maſter for whom you fight, ſome with lies and ſlanders; back-biting, and falſe accuſing, laying to our charge (in whom he is) things we never knew, and accuſ<g ref="char:EOLhyphen"/>ing us with things to come which we never intended; and theſe are the head of the Serpent which makes way for ga<g ref="char:EOLhyphen"/>thering all the body and taile, ſome with clubs and ſtones, ſtocks and priſons, ſome beating in the Synagogues and hal<g ref="char:EOLhyphen"/>ing before Rulers, ſome plotting in ſecret, hatching the Cockatrice eggs which yet you have not power to bring forth; and ſoe all is at work, Gog and Magog againſt the Lambe, and his deſpiſed ones where he is; the priſons are fulfilled throughout the Nation: and the Devill is come downe in great rage, and the Nations are mad, yet can you not believe that this is the work of the Devill, thus to make havocke, though none of God was ever found in it, but his time is ſhort, and to judgment he must come, head and taile, root and branch, the day is at hand: here is the faith and the pa<g ref="char:EOLhyphen"/>tience of the Saints, he that hath an eare can only heare, and he that hath an eye can ſee, but the world is as blind and deafe as ever.</p>
+            <p>The occaſion of thy Queries thou ſaies is the increaſe of the <hi>Quakers</hi> in <hi>Gloceſterſhire;</hi> and thou ſaies in a rude manner thou did compoſe them, which ſome perſwaded thee to correct, <hi>&amp;c.</hi> I ſay they are rightly called rude, and ſo they will appeare in time, and thy ignorance alſo who thinks to ſtop the work of the Lord with theſe Queries; but if thou had taken counſell ſo to have corrected them as to have taken out all thy lies, thou had marred the foundation of thy Que<g ref="char:EOLhyphen"/>ries and with the light of Chriſt, in thy conſcience thou might have anſwered thy ſelfe, covered thy ſhame, and not have
+<pb n="3" facs="tcp:116478:3"/> brought forth ſuch a ſhamefull birth as this, into the world; the firſt coppie of them thou ſaies thou d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſowned; I ſay if ever thou own truth thou will d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſowne the ſecond alſo? but thou ſeemes to put the fault, why thou printed them upon the <hi>Quakers,</hi> who thou ſaies threatned to publiſh the Coppie in thy name, and thou ſaies ſome favorites of ours perſwaded thee not to publiſh any thing againſt us; ſaying we would caſt dirt and filth in thy face, and ſet out thy miſcariages in a mul<g ref="char:EOLhyphen"/>tiplying glaſs, alledging to thee, the Counſell of <hi>Gamaliel &amp;c.</hi>
+            </p>
+            <p>I ſay: thy ſpeech bewrayes thee, was this our friend which gave this falſe testimonie againſt us? he was a friend to thee, if thou couldeſt have ſeene it, and have taken his Counſell after <hi>Gamaliel;</hi> but he hath not ſpoken truth of us for I am ſo far from multiplying thy miſcariages, that a third part of thy lies I have not mentioned. And the quakers had done thee no wrong, had they publiſhed in thy name what thou wrote, yet I judge the least of the <hi>Quakers</hi> might have been much better imployed, then to fill peoples eares with ſuch ly<g ref="char:EOLhyphen"/>ing vanities; which are most fit to rot had not thou brought them firſt to light: And thou ſpeaks as of ſome feares of ſome reports, that are out againſt thee, concerning thy con<g ref="char:EOLhyphen"/>verſation, as though the <hi>Quakers</hi> ſhould publiſh them; to which, I ſay, if thy conſcience accuſe thee; and being inlight<g ref="char:EOLhyphen"/>ned with the light of Chriſt, owne the light and turne to it, and repent of thy ſin and love the light which ſhews it, ther<g ref="char:EOLhyphen"/>in ſhould I rejoyce, more then in publiſhing of it; thou tells of a liſt &amp; Catalogue, of as vile wretches who are lately turned <hi>Quakers</hi> as any the Country doth afford, and this thou ſaies to deter people from following us. I ſay thats my joy on their behalfe (though troubled for you) to ſee the Scripture fulfilled and fulfilling, they come from far and ſit downe in the Kingdom, but the Children of the Kingdome caſt out, yea<note place="margin">Math. 21. 31. 32.</note> publicans and harlots take the Kingdome before you: good is the word of the Lord which is now fulfilling, but woe unto<note place="margin">Mat. 8. 11.</note> you who it is fulfilled upon, and thou ſaies in thy Queries
+<pb n="4" facs="tcp:116478:4"/> the Reader may ſee not only the face but the whole body of the <hi>Quakers</hi> Tenets; I ſay they may ſee a body of thy lies, where withall thou art arming thy ſelfe againſt the Lord; but the body of the Quakers are out of the ſight of hell and death, and all the darke fallible Spirits that are in covenant there<g ref="char:EOLhyphen"/>with.</p>
+            <p>And thou ſayeſt, our Antiſcripturall inventions will of themſelves ſhortly fall to the ground like as a fig tree caſteth her untimely figs when tis ſhaken of a mighty winde; I ſay, in<g ref="char:EOLhyphen"/>ventions are thine who hath not the light and Spirit in thee, but for our fall, that is the falſe prophet that ſpeaks in thee and ſo it ſhall be ſeene, every day more and more, the might of the winde of the lyer cannot ſhake our foundation.</p>
+            <p>Yet thy Queries I ſhall anſwer, ſo much of them as have any truth in them, and ſome of thy lyes I ſhall returne thee a<g ref="char:EOLhyphen"/>gaine which may ſeeme to ſlander the truth moſt, and for the reſt let them alone as not worth mentioning, nor troubling the cares of people with them, and ſo in plaineneſſe, as followeth.</p>
+         </div>
+         <div type="pamphlet">
+            <pb n="5" facs="tcp:116478:4"/>
+            <head>AN Anſwer to Twenty Eight Queries ſent out by <hi>Francis Harris,</hi> to thoſe People he calls Quakers.</head>
+            <p>IN thy firſt Query thou askes the way of Gods diſcove<g ref="char:EOLhyphen"/>ry to the ſons of men, and whether we come from God, or we ſpeak of our ſelves, and the Light of conſci<g ref="char:EOLhyphen"/>ence by which we walke, whether our di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>penſation be from Mount <hi>Sinai,</hi> or <hi>Zion &amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Our diſpenſation is of the Spirit of light, whereby we are led, and Mount <hi>Sinai</hi> we know, and the law received from Gods owne mouth, where the beaſt cannot touch, and from the wilderneſs of ſin are we journeyed, and ſome journeying, and the wilderneſs of <hi>Judea</hi> we know, and that righteouſneſs fulfilled, where the generation of Vipers is rejected, Scribes and Phariſes; and to Mount <hi>Sion</hi> we are come, &amp; many is coming with joy &amp; ſongs of deliverance, and ſorrows, tears, and fighing flies away, with the wild aſſes who ſnuffs up the wind, and never came to the yoake, kicks and ſcoffs at, when they ſee o<g ref="char:EOLhyphen"/>thers brought to teares and ſorrow, and ſo in vaine minds talks of wiping teares away where none is, and talks of <hi>Sion;</hi> who have the words, but are ſtill in <hi>Egypt,</hi> and in the ſtate of <hi>Iannes</hi> and <hi>Iambres,</hi> withſtanding <hi>Iſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aels</hi> ſeed in the imitations, but knows not <hi>Iſraels</hi> light but ſcoffe at it, and to all ſuch it is a Cloud, and dark<g ref="char:EOLhyphen"/>neſs, which is light by night, to ſuch as beleive and are in their jorney towards <hi>Sion,</hi> and with that light are we ſeparated, and our enemies condemned in darkneſs, and ſhall not come nigh us though they purſue, and through t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is are we deli<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ered from bondage, and that which tendeth to bondage; and ſo through the law we<note place="margin">Gal 2. 19.</note> are made free from the law, and do not <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyd the law,<note place="margin">Rom. 3. 31</note>
+               <pb n="6" facs="tcp:116478:5"/> God forbid; And where is thou asks whether this be not done away. I ſay thou might firſt know it fulfilled, there ſhall not a jot of the law paſſe till all be fullfilled, goe learne what that meanes (<hi>Mat.</hi> 5. 17, to the end) and the Saints waited to have the righteouſneſs of the law full<g ref="char:EOLhyphen"/>filled in them, which vaine minds caſt behind their backs: <hi>Rom.</hi> 8. 4: and that law we ſee fulfilled, and ful<g ref="char:EOLhyphen"/>filling, which is ſpirituall, juſt, and good; and herein<note place="margin">Rom. 7. 12 14.</note> our teaching and the effects thereof, are one with that which the Goſpel did and doth produce.</p>
+            <p>And thus the ſumm of thy firſt and ſecond Queries are anſwered, except ſuch lies as theſe, that we preſs upon people nothing but horror and amazement, and that we do profeſs to lie under them along time, ſeeke to affright others into them, that we ſtumble at the noone day, that there is no Goſpel light in us, <hi>&amp;c.</hi> which all being but lies heaped togather, thou may take them back not worth anſwering. And for thy miſchie<g ref="char:EOLhyphen"/>vous words againſt us in that thou calls roareing, I ſay thou may read thy generation and thy worke, <hi>Pſa.</hi> 38. while <hi>David</hi> roared, ſuch as thou imagined miſchiefe, and his enemies was lively and ſtrong and multiplyed againſt him.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Qu. </seg>3</label> In this Query thou asks if that religion be of God, which for the outward part conſiſts in little elſe but <hi>thou</hi> and <hi>thee,</hi> and railing againſt Preiſt, and Tythes, hirelings, and groſſe ſins, <hi>&amp;c,</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. </seg>
+               </label> That our religion conſiſts of any outward thing or de<g ref="char:EOLhyphen"/>portment is falſe; But are not all theſe things thou carps at, the practiſes of the Saints? did not they declare againſt the Prieſts, hirelings &amp; Tythes, which thou calls railing in us? Or did they ever uſe any other language but thee or thou to a particular, who ever it was, God or man?</p>
+            <p>Thou ſhameleſs man! how doſt thou diſcover thy envi<g ref="char:EOLhyphen"/>ous Spirit againſt the practice of Chriſt and his people?
+<pb n="7" facs="tcp:116478:5"/> canſt thou find nothing in us to envy againſt, but Scripture practice? be aſhamed of thy doctrine, who art come forth<note place="margin">Jo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 10. 13</note> into the world, to plead againſt the Saints, to hold up<note place="margin">Job. 32. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 22</note> Hirelings, Prieſts, &amp; Tythes, which Chriſt &amp; the Apoſtles cryed downe, &amp; to plead for flattering Titles, againſt the language of Scripture, and againſt the true language of the Nation, brought forth only to honour the Devils pride, who is ſo exalted in men that he would have a better language then God, and all good men have given and taken freely in all ages, for God is one in all his, but the Devill is legions; and this thy work ſhews thy Maſter, and yet in this his work thou would have the name of Chriſt to cover thee with: but the light which thou hates is come, and thou art found out by thy works, thy words cannot hide thee, who is bending thy wits to lead out of the Saints practice, into Country cuſtomes, and ſaies, would not Chriſt and the pen-men of Scrip<g ref="char:EOLhyphen"/>tures have uſed it, and ſuited with the place where they had come; I ſay Chriſt and the pen-men of Scripture were in place where the Devill raigned (as we are,) but they was redeemed from conformitie to him, and his, from cuſtoms of the world, Nations, kindreds, tongues, and People, for which they was hated, and evill ſpoken of by the Devills inſtruments, who are in his Kingdom and cuſtome, and by ſuch are we hated, and ſlandered now, for the ſame practiſes and language: and have not the pen-men of the Scripture ſhewed what they would do in their writings, which thou would alter, to make way for proud <hi>Haman</hi> and his devouring nature, and would accuſe us for railing accuſations, becauſe we with<g ref="char:EOLhyphen"/>ſtand thee: And thou askes if we doe not abuſe that Scripture, <hi>Luke</hi> 10. 4. I ſay it is the Devill that abuſes Scripture in leading vaine minds to talke of it, who doe not walke in it, but would accuſe them that doe, whom Chriſt hath ſent forth and fitted for that purpoſe by his Spirit and power, and ſuch knows what to ſalute, and to
+<pb n="8" facs="tcp:116478:6"/> whom they bid God ſpeed, and will follow no man<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> traditions.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>4</label> In this thou Queries, In what the language of the Spi<g ref="char:EOLhyphen"/>rit conſiſts in, and Whether any mortall creature now may be ſaid to ſpeak the pure language of the Spirit, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> The language of the Spirit conſiſts in that, which the Spirit ſpeaks or moves the Creature to ſpeake, and ſuch is the pure language of the Spirit though ſpoken through a mortall Creature; and where the fallen wiſdom is ſi<g ref="char:EOLhyphen"/>lent and ſelfe dead, there it is ſpoken forth without mix<g ref="char:EOLhyphen"/>ture, but while the firſt borne lives, where the light is denyed, this is not knowne, who are not redeemed from Nations and their Cuſtomes. And whereas thou askeſt what Chriſt meant when he ſaid, <hi>Simon</hi> behold Satan hath a deſire to ſift you: I ſay, he meant as he ſpoke, that Satan had a deſire to ſift the diſciples, and ſo he hath at this day, which the prayer of the Spirit of Chriſt pre<g ref="char:EOLhyphen"/>vailes againſt, and no man can ſpeake the language of the Spirit in flattering titles, neither doth the Spirit frame any ſuch ſpeech. And they that have this Spirit have power to ſpeak the pure language without arroga<g ref="char:EOLhyphen"/>ting to themſelves; and thou that ſpeaks evill of this lan<g ref="char:EOLhyphen"/>guage,<note place="margin">Mark. 3. 29. 30.</note> art the blaſphemer thou ſpeaks on, who ſaies this is contrary to the divine motions which is but contrary to thy Nationall cuſtomes, and the Devills pride, who withſtands mans redemption, out of the Fall, where all<note place="margin">Jam. 2.</note> the flattering titles, reſpect of perſons, vain cuſtoms and worſhips is; which the faith of Chriſt denies, which brings out of the Fall.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>5</label> This Query is made up of lies: and do thou, and all thy generation prove wherein we refuſe to give that re<g ref="char:EOLhyphen"/>verence to Majeſtrates which Chriſt and the Apoſtles did both in doing and ſuffering; till then ſtop thy mouth thou ſlanderer, who art opening thy mouth in blaſphe<g ref="char:EOLhyphen"/>my and lying, who ſaith it is our p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea that our Maje<g ref="char:EOLhyphen"/>ſtrates are not Chriſtian Majeſtrates, and that the high Prieſt under the law had nothing to do by the law of
+<pb n="9" facs="tcp:116478:6"/> 
+               <hi>Moſes</hi> to ſit as Judge, and divers ſuch lies not worth mentioning.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>6</label> The ſum of this Query is to deny the infallible Spirit in the Saints, to be the ſame now that it was in the pen-men of the Scripture, and to deny it for t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e trying of all Spirits, and thou would ſet up the letter in its ſtead, for a rule to try Spirits and doctrines. And when thou haſt done thou confeſſes the Scripture to be but a dead letter, and ſo death in thee, being thy rule with the dead letter, thou would try the Spirit of the living God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> But to the Querie: this I ſay the infallible Spirit by which the Scriptures were given forth, is the ſole tryer of Spirits &amp; doctrines, neither hath it need of any additi<g ref="char:EOLhyphen"/>on where it is, nor can thou who denies this Spirit, nor thy fore-fathers, the <hi>Jewes,</hi> ever could know Chriſt, nor the voyces of the Scriptures though you read them every day; and ſo are fulfilling them, bringing the let<g ref="char:EOLhyphen"/>ter to oppoſe Chriſt; as they did ſo doſt thou, <hi>Acts</hi> 13. 27. and ſo denys the end of the Scriptures which is to ſet up the Spirit of God for judge, and not themſelves, and this is the right uſe of the Scriptures, when the man of God reads them, which the man of ſin turnes them to uphold ſin and wreſts them to the deſtruction of the Creature, where he reads them: neither do we throw them aſide according to thy ſlander, and thou that de<g ref="char:EOLhyphen"/>nyes the infallible Spirit, art in the deluſion of Satan (thou ſpeaks on) and horrid opinions and changeable Religions, and would keepe people from cloſeing with the Spirit, leading them from the living to the dead and denying the light in thee, goes not to the law of the new Covenant, nor teſtimony of Jeſus which is ſealed up a<g ref="char:EOLhyphen"/>mong<note place="margin">Iſa. 8 16.</note> the diſciples, but to the letter, which all the world hath the letter that will read it, or buy it. And whereas thou asks what <hi>Peter</hi> meanes when he calls the Scriptures a ſure word of prophecy: I ſay that is but thy dark imaginations, who knowes not <hi>Peters</hi>
+               <pb n="10" facs="tcp:116478:7"/> voyce; for the letter was not a ſurer word then the voyce from Gods own mouth, which they heard from heaven. The Spirit of propheſie thou knows not, who denyes infallibility, and ſo (as its ſaid) thy faith lies in what others hath written.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>7</label> Thou askes whether that can be the way of God which hath nothing to warrant it but the bare words and affirmations of men, which they call infallible, and whether this be a ſufficient ground to ſatisfy others.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> That Spirit of God which is infallible is the ſufficient ground, and to preach; that is the way of God, neither had this ever any teſtimony but what is of it ſelfe, for the worlds wiſdom, and carnall naturall man can neither receive it nor beare teſtimony of it, onely ſuch who be<g ref="char:EOLhyphen"/>leive it, beare its teſtimony, and to ſuch the light and life breaks forth, but to the unbeleivers who cannot ſub<g ref="char:EOLhyphen"/>mit<note place="margin">Luke 19. 14.</note> to it, even the ſame that was from the beginning, and ſuch as ſay we will not have this man to rule over us ſuch abide in darkneſs and periſh for ever, becauſe they believe not in the light and ſubmit unto it, for this is the condemnation that light is come into the world, and men love darkneſs, and here thou haſt read thine<note place="margin">Joh. 3.</note> own condition without faith and without wiſdom.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>8</label> Thou askes whether our way be of God becauſe it is altogether new, and ſuch as wherein God never yet ap<g ref="char:EOLhyphen"/>peared unto the ſons of men, nor doth the Scripture hold out any ſuch manifeſtation of God, as we teach; and then ſaiſt, thou ſhalt undertake to diſco<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er us in moſt of our tenents, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> The way of God was ever new to the old man, but for thy ſaying God did never appeare in this way, nor the Scripture hold it out, thoſe are but thy lies: it had been moſt like for thee (if thou had aimed at honeſty) to have diſproved our way or our tenents, (according to thine undertaking) before thou had proceeded to ſlan<g ref="char:EOLhyphen"/>der, but the former of theſe is more ready with thy fal<g ref="char:EOLhyphen"/>lible
+<pb n="11" facs="tcp:116478:7"/> Spirit then the latter, and ever was with the accuſer of the Brethren; and thou proceeds to limit God, and ſaiſt thou art aſſured that this is the laſt, in which God wil ever appeare unto the ſons of men. I ſay thou art in the way that that generation ever was in, putting God af<g ref="char:EOLhyphen"/>far off, who would never own his apperance preſent; yet this generation of you exceeds all your fore-fathers herein, who would wholly exclud him never to appeare more unto the ſons of men, as ſome of your Rabbies have lately ſaid that God hath ſpoken his laſt, and ſo that you being ſpiritually deafe and blind do conclude that God is dead like your ſelves, and as you know him ſo you worſhip him, literall knowledge, literall wor<g ref="char:EOLhyphen"/>ſhip, for who knows not in Spirit, cannot worſhip in Spirit, and with ſuch as have God within, ſo is his wor<g ref="char:EOLhyphen"/>ſhip, which ſtands not in outward meats and drinks nor carnall things, not in oldneſs of the letter but in new<g ref="char:EOLhyphen"/>neſs of the Spirit.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>9</label> In this Query thou asks, if we do not delude people, in affirming that there is a pure light of Chriſt in every man and woman by nature, according to which if they walke they ſhall avoyd ſin, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſaved, if they refuſe to hearken to it they ſhall periſh, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> The <hi>Ethiopian</hi> cannot change his ſkin, nor thou ſpeak truth without lying: did thou ever heare us ſay, men and women have this light by nature, we know this light we ſpeake of to be ſpirituall, and the light of Chriſt wherewith he enlightens every one that comes into the world, and that it is pure, and that whoſoever believs<note place="margin">John 1. 9.</note> and follows it ſhall not abide in darkneſs, but ſhall<note place="margin">John 8. 12.</note> have eternall life, and he that beleivs it not, is damned<note place="margin">John 3. 17.</note> and whoever draws people from this ſpirituall light to obſerve any traditions, without this light, though by God they have beene formerly commanded, are the ſe<g ref="char:EOLhyphen"/>ducers, nay the Apoſtle calls it witchcraft, and thou that<note place="margin">Gal. 3.</note> ſaies the Scriptures tells you the contrary, belies the
+<pb n="12" facs="tcp:116478:8"/> Scriptures, for Chriſt ſaies the Kingdom of God<note place="margin">Luke 17. 20, 21.</note> is within even the Phariſes who though they were as blind as thou, and could not beleive it, yet was not they ſo impudent as to deny it in plaine words, as thou doſt: how blind are you in this age more then ever any was before you; the <hi>Jewes</hi> who in the Old Covenant denyed Chriſt ſhall in the day of Judg<g ref="char:EOLhyphen"/>ment ariſe againſt you, who profeſs the new Cove<g ref="char:EOLhyphen"/>nant in Spirit, and yet deny the light of Chriſt within, to lead to God out of the world, art thou a ſpirituall man who haſt thy law and light and word and Chriſt to ſeeke without? Is the Kingdom of God within, and is he not<note place="margin">Luke 17. 21.</note> in his Kingdom? art not thou he whom the God of this world hath blinded the eye of the mind, and ſo the Goſ<g ref="char:EOLhyphen"/>pel is hid and thou lyeſt groping in the dark, loe here, loe there, who art gone out into the world, to deceive be<g ref="char:EOLhyphen"/>ing deceived, given up to beleive lies and tell lies, who would make people beleive it was <hi>Adams</hi> ſin to looke to the light within, whoſe ſin was to looke out to the Counſell of others who had loſt their guid in Spirit and art now teaching people to waite for a power of<note place="margin">2 Cor. 13. 5</note> Chriſt without them, and not Chriſt within: ſo the Re<g ref="char:EOLhyphen"/>probate is turned teacher.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>10</label> And this is a full anſwer to thy tenth Query; onely ſee thy own confuſion, and confeſſion, firſt in denying <hi>Iohns</hi> words, <hi>Iohn</hi> 1. 9. That this light is not in the heart of every man, and then ſaies, till this light ſhine in the ſoule, it remaines in the dark hearts of men, and brings <hi>Iohn</hi> 1. 5. to prove it, O that ever men ſhould be ſo ſot<g ref="char:EOLhyphen"/>tiſh to appeare in the world in print in ſuch confuſions firſt to deny the light within, and then to prove it re<g ref="char:EOLhyphen"/>maines in the dark heart, till it ſhine forth, and brings <hi>Hoſ. 6. 3. Eph. 5. 8. 2 Cor.</hi> 4. 6. to prove thy own confuſions.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>11</label> In this Query thou goes on adding thy lies, ſaying that we ſay this light is in men and women by nature, <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>12</label> and as that we put the light of nature in the room of Chriſt
+<pb n="13" facs="tcp:116478:8"/> when its thy work all along to put the light of nature in his room, and thou askes if people may not by the light of nature do the things contained in the law, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> I ſay, no other light nor nature but the divine light and nature, can do the things contained in the law and who follow that light have a law unto themſelves with<g ref="char:EOLhyphen"/>in themſelves, written in their hearts, by which law of<note place="margin">Rom. 8. 1.</note> the Spirit, they are made free from the law of ſin and death, their conſcience bearing them witneſs, &amp; excuſing or accuſing according as God ſhall judge the world by<note place="margin">2 Cor. 1. 12</note> the Goſpel and this is not fallen nature neither do we attribute it thereunto, but to the divine nature and po<g ref="char:EOLhyphen"/>wer which all that beleive in the light, come to be par<g ref="char:EOLhyphen"/>takers<note place="margin">2 Pet. i. 3. 4</note> of, though they never partake of the letter: for where this Spirit is knowne and followed, the light that is in them is not darkneſs, that's their condition where the talent is hid neither doth the Scripture ſpeake of any light, but the light of Chriſt, all elſe is darkneſs though darkneſs may imagine it to be light, as the blind generation ever did who put light for darkneſs, and darkneſs for light, who walke not according to the teſti<g ref="char:EOLhyphen"/>mony of the light in their conſcience, neither thou nor the Preiſts, but according to your own wills, luſts, and imaginations, and by them are guided, and thus ſets up your poſts by Gods poſts: your fooliſh hearts being dark<g ref="char:EOLhyphen"/>ned, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o become vaine in your imaginations, who did not like to retaine God in their knowledge, becauſe that which may be knowne of God is manifeſt in them<note place="margin">Rom. 1. 19</note> ſo become filled with all unrighteouſneſſe, and theſe are the idolaters thou ſpeaks on, which are not under the Goſpel (as thou ſaies they are) but under their imagi<g ref="char:EOLhyphen"/>nations and ſo ſet up a naturall light to walke by, in ſtead of the light of Chriſt, which is groſſe darkneſs to the things of God, and here thou maiſt read thy ſelfe and thy 12th Querie alſo anſwered.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>13</label> In this Querie having repeated thy former lies with
+<pb n="14" facs="tcp:116478:9"/> an addition, thou askes if our crying out againſt ſome groſſe ſins, railing againſt Prieſts tythes, hirelings and the like, be not Satan in us, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Railing is thine own and lying alſo: but denying the hirelings and the Prieſt that took tythes (with their<note place="margin">Heb. 6.</note> tyths) is the work of Chriſt and his Apoſtles, which all his ever owned: and thats Satan in thee, which oppoſes it and thou art his miniſter who art pleading for the hire<g ref="char:EOLhyphen"/>lings and his tythes contrary to Chriſt, and ſo would o<g ref="char:EOLhyphen"/>verthrow the foundation of the Goſpel, and Goſpel or<g ref="char:EOLhyphen"/>dinances, who cals the hirelings the ſervants of the Lord and ſaies they dwell in heaven, who are ſerving their bellies with earthly things, denying the light of Chriſt and his practice and the practice of all his: and whereas thou ſayeſt under a pretence of crying downe Prieſts and hirelings, we cry downe all the Apoſtolicall inſtitu<g ref="char:EOLhyphen"/>tions of Chriſt; I ſay tythes and hirelings under the Goſ<g ref="char:EOLhyphen"/>pel are not of Chriſts inſtituting, nor his Apoſtles, but by the Pope was they inſtituted, and thou and all that takes part with him and his inſtitutions, cannot keepe them from being ſcattered, neither are any of them the Lords people who are ſo gathered, but now the ſheep<g ref="char:EOLhyphen"/>heard is come to ſave the ſheep, the wild beaſts muſt fly every one to their harbor, from whence they came, and you that are come out from the ſtock of the Prieſts, who came out from the root of the Pope, ſtand up together that you may be broken; roote and off ſpring.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>14</label> Thou askes whether our ſelfe abaſing, Quakings, trem<g ref="char:EOLhyphen"/>blings, roaring, crying, going in ſackcloath, and haire<g ref="char:EOLhyphen"/>cloath,<note place="margin">Nehemiah 9. 1.</note> ſitting in aſhes, living apart from our wifes, ſi<g ref="char:EOLhyphen"/>lent geſtures till the power move, (with ſome other lies thou adds) be any other then a voluntary humility. &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Herein thou haſt ſhewed how little thou knows of the Saints conditions, or being acted contrary to thine own will: is there any of theſe aforementioned, but the
+<pb n="15" facs="tcp:116478:9"/> Saints have been brought through them: contrary to<note place="margin">Pſa. 32.</note> 
+               <note place="margin">Pſa. 22</note> there own wills, and have declared them in Scripture,<note place="margin">Luke 10. 13.</note> which thou enemie to their Spirit which acted them thus, calls anticke geſtures, and voluntary humility,<note place="margin">Luke 41. 26.</note> canſt thou judge it in us, and not in them, would not<note place="margin">Ia. 22. 12 13.</note> thy fallible ſpirit have ſaid as much, to have ſeen them ſo acted before the Scripture declared it, who dare thus blaſpheme that Spirit, now when the Scriptures hath witneſſed it, and yet ſaith, the Scriptures is the judge of all Spirits, ſo with the Scripture, thy Spirit is judged to be the Spirit of the Devill, who oppoſes, and reproaches the actings of the Spirit of God in the Saints: lying and ſaying that they are acted by the light of nature, but what elſe canſt thou judge, with thy fallible Spirit of the things of God, or the Saints liberty, or what there is in it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>15</label> In this Querie thou askes whether the nature of the covenant of grace be not one of the moſt needfull truths that a people can be taught, and thou ſayeſt in all our ſpeakings and writings we ſeldome are never touch up<g ref="char:EOLhyphen"/>on it, nor of Gods free actings in it, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> With thy blind fallible Spirit thou art here judging a<g ref="char:EOLhyphen"/>gain thou knows not what, who hath neither read all our writings nor been at all our meetings, ſo with thy falſe judgment condemnes thy ſelfe to be one of thoſe that ſpeaks evil of that thou knows not: Art not thou a<g ref="char:EOLhyphen"/>ſhamed to accuſe us, for not declaring the nature of the Covenant of grace, and thou thy ſelfe denying the light within, which is the light of the Covenant, is not that the thing for which thou art become our enemy becauſe we declare the light and Covenant to be within, and Gods free actings therein<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'ſt thy envie leads thee, thinking to reproach us, how doſt thou cover thy ſe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<note place="margin">Je<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e. 31. 31. 33.</note> with thine owne ſhame, like the troubled ſea caſting up mire &amp; dirt? Is not the new Covenant its nature &amp; pro<g ref="char:EOLhyphen"/>miſe<note place="margin">Heb. 8. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 10.</note> within, whicch thou art preaching without, &amp; re<g ref="char:EOLhyphen"/>proacheſt the infallible Spirit within, and thou ſaies the
+<pb n="16" facs="tcp:116478:10"/> new Covenant attributes the whole operation onely to God: thou blind ſot, canſt thou atribute the work in man to God, who denies the infalible Spirit in man? doth the Spirit of God, work where it is not, or thou denies his Spirit to be infallible where it is: ſo thou that denies the infallible Spirit, muſt attribute either to the naturall light, or the Spirit of the Devills, for there is nothing of God but what is infallible, for ſo is his Spirit, &amp; ſo is his Covnant, which are within all that know it, but thou art without, and ſo without God in the World; heaping up thy lies, ſaying that we drive people into Quaking, and glorys in it, and attributes that to the light of nature which is the proper worke of Chriſt, and thus thon heapes up thy lies together.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>16</label> This Q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erie being wholly made up of lies, not being worth repeating after thee, I returne them to thee a<g ref="char:EOLhyphen"/>gaine being thy owne condition; but Chriſts meekeneſs we owne, and ſelfe we deny, ſelfe righteouſneſs, and ſelfe actings, thou art there, who haſt not the infallible Spirit to act thee, ſo thou haſt nought to act thee but thy ſelfe or the Devill.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>17</label> Thou askes if it be not the policy of Satan, now that ſo much Goſpel ight is diſcovered, that he cannot out as act uncleane Spirits, nor in Popiſh Antichriſtian formes ſuperſtitious inventions as formerly to pretend in his future actings, to be for Chriſt: thereby he may ſom way or other blemiſh his primitive adminiſtrations, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Heare in thy confuſion thou askes, thou knowes not what; The Goſpel light is within and ſo was in the A<g ref="char:EOLhyphen"/>poſtles time 2 <hi>Cor. 4. Luke</hi> 17. 20. but thou that haſt noe light in thee, nor the infallible Spirit, art in the policy of Satan, and with thy uncleane Spirit, acting againſt the light of Chriſt with thy lies and ſlanders, and the primitive adminiſtrations thou knoweſt not but as thou haſt received by tradition from the letter, and ſo thy Ad<g ref="char:EOLhyphen"/>miniſtration
+<pb n="17" facs="tcp:116478:10"/> is literall, but the Saints was and is ſpi<g ref="char:EOLhyphen"/>rituall in the light and not in the letter, 2 <hi>Cor.</hi> 3. And whereas thou tells of ſifting us, I ſay what haſt thou to ſift us with, who denies the light of Chriſt in thee? and the infallible Spirit, haſt thou any other but the Spirit of Satan, whoſe deſire is ever to be ſifting the Saints, but thy Spirit muſt not prevaile, againſt the Children of light, thou art without with thy ſin amongſt the chaffe but the wheat is within.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>18</label> Whether it be ſafe for Chriſtians to forſake, and let goe thoſe Goſpel diſpenſations of the Spirit of truth, in which God hath ſweetly and bleſſedly appeared unto their ſoules, and wherein they have had bleſſed experi<g ref="char:EOLhyphen"/>ences of God, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> I ſay what haſt thou or any elſe who deny the light of Chriſt and the infallible Spirit to let goe, that is worth keeping, art thou affraid of loſing the Spirit of deluſions for the Spirit of truth thou haſt not, for that is infallible and that which hath appeared to thy ſoule, who hath noe light in thee, nor the Spirit of God, is but the Spi<g ref="char:EOLhyphen"/>rit of deluſion, or ſomthing in thy imaginations, who art a Child of darkneſs, and therein is all thy experience which thou art ſo affraid to looſe, and whereas thou would make people beleive that the diſpenſation of the light and infallible Spirit hath noe promiſe from God, and that they that doe ſo refuſe him that ſpeaks from heaven. I ſay herein thou manifeſt, what thou knowes of any promiſe from God, or voyce from heaven, who<note place="margin">Eze. 11. 19</note> denies it to be in the light or infallible Spirit, without<note place="margin">Jo. 8. 12.</note> which there is no promiſe nor word but what is ſto<g ref="char:EOLhyphen"/>len<note place="margin">Rom. 8. 9. 14.</note> from others, or out of a booke, and had thou had no<note place="margin">Iſa. 49. 6.</note> book thou had no voice nor promiſe, who haſt no light, nor that Spirit by which alone the love of God is ſealed to all that hath it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>19</label> Whether this power we have received, and preſs peo<g ref="char:EOLhyphen"/>ple to waite for, be from God, from Satan, or from the
+<pb n="18" facs="tcp:116478:11"/> Spirit of bondage, and thou askes if the power of God, when it hath come, hath put his people into ſuch ſtrange fits of trembling and quaking as if their joynts were fallen in peices, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> That power we have received, and preſſe people to waite for, is the power of God, which thou knowes not nor its effects, who calls them ſtrange fits, when <hi>Daniell</hi> heard the word of the Lord he ſtood trembling; And when <hi>Moſes</hi> heard the word of the Lord, he exceedingly feared and quaked; And <hi>David</hi> his bones were out of<note place="margin">Dan.10 11</note> joynt, this thon calls ſtrange fits who never knew the<note place="margin">Heb. 12. 21.</note> word of the Lord; who hath eyes and ſees not, eares<note place="margin">Pſa. 22. 14.</note> and heares not, and ſo art out of the feare of God: one of thoſe thou maiſt read on, <hi>Jer.</hi> 5. 21. 20. and <hi>Iſa.</hi> 56. 5, who art venting out thy malice againſt ſuch as feare the Lord, and tremble at his preſence: but to trembling thou ſhalt come, when thou ſhall ſee his face: whom thou now art reproaching, then ſhalt thou know <hi>Bel<g ref="char:EOLhyphen"/>ſhazers</hi> condition, which now with thy vaine minde thou art talking of: And whereas thou tells of liberty where the Spirit of the Lord is, then there is none in thee, who denies the infallible Spirit in thee, but thy liberty is in thy beaſtly, ſenſuall, imaginations; and in thy naturall condition thou art, who art not borne of that Spirit; And it is thou that is in Satans work, to drive people from Chriſt who denies his light and Spi<g ref="char:EOLhyphen"/>rit, and nought elſe haſt thou received but a Spirit of bondage, who hath not the Spirit of the Father in thee, and ſo art bound in the chaines of darkneſs, and would keepe others with thee: and thy conſolation, and ſafety is but with Carnall things; who hath not in thee, the infallible Spirit, but our conſolation is in the Spirit, of God which we have in us, received of him, in his light.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>30</label> And whereas thou Queries, whether that which we call perfection be not rather imperfection, <hi>&amp;c.</hi>
+            </p>
+            <pb n="19" facs="tcp:116478:11"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> No, It is that which ſhews thy imperfection and Phariſaicall boaſtings, it is that which leads us from ſin, and to the remiſſion, and the love of God which thinks no evill; And from the righteous mans ſtate which falls ſeven times a day (which thou tells on) to Chriſt which doth not fall, and from that ſtate that doth offend, and from ſelfe ſufficiency to the ſufficiency of Chriſt which tells people, ſee they have ſinned and ſtand in need of a Saviour, who ſaves them from their ſin, whoſe blood cleanſeth from all ſin, and there is the time of ſeeing ſin, and have ſinned, and confeſſing and forſaking ſin, and the blood of Chriſt cleanſeth from all ſin: and perfection is not attained in thy life thou lives in, for its the man of God thats perfect, and he knowes <hi>Pauls</hi> words who ſerves God in newneſs of life, and not in oldneſs of letter and when thou comes to <hi>Pauls</hi> life, thou ſhalt know <hi>Pauls</hi> ſtate, which we ſee and know, who ſaid, As many of us as be perfect, be thus minded, and he was one of that (us) who wiſhed their perfection, and we deny thy Spirit which keeps thee allwayes in the warfare, but we witneſs the Spirit of the Apoſtles, which is to preſent e<g ref="char:EOLhyphen"/>very man perfect in Chriſt Jeſus, and this is the Spirit the Quakers witneſs.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>25</label> Thou Queries if it be ſafe for Chriſtians to be every yeare changing their religion, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Thou that haſt not the Spirit that was in the Apoſtles, thou haſt the Spirit of the world, where the changing religions is, and that Spirit grows not, nor with it thou grows not up in grace; which the Spirit that was in the Apoſtles did, and who are in it doth, and ſo the Ranters Levellers, and changing religions thou tells on, are of thy Spirit, whoſe houſe is not upon the Rock: ſo, now the wind blowes, ſo many of them tumbles downe, and the reſt of the lies returne into thy own boſome, who art one of the tempeſt (thou tells on) caryed about with wind and words of men, and ſo not ſtead-faſt, but with the
+<pb n="20" facs="tcp:116478:12"/> Spirit that is ſtedfaſt are diſcovered, which tendeth into Chriſt, where we have an intereſt in God, who is a con<g ref="char:EOLhyphen"/>ſuming fire, who is bringing all thy actings to light; and thou askes what ſettlement people can gather to themſelves, I ſay ſuch a ſettlement as thou art in, which is but vaine notions, which now doth oppoſe the Goſ<g ref="char:EOLhyphen"/>pel and the glorious light of it, but with it thou art con<g ref="char:EOLhyphen"/>demned, which leads to the Rock, where the love of the truth is received, and now thou art left in thy confuſi<g ref="char:EOLhyphen"/>on, having not the power, art turned away from, and this thou calls changeing, like the Pope and all ſects who calls it hereſie, to come out from their traditions ſo doſt thou, and your argument is one, and where as thou tells of a wandring Spirit, I ſay ſtop thy mouth for ſhame, what Spirit elſe haſt thou, who denies the light of Chriſt and the infallible Spirit, have not all cauſe who loves the Spirit of truth, or their own ſouls, to ſhun thee and thy vaine notions, which are not from the Spi<g ref="char:EOLhyphen"/>rit of God, that was in the Saints.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>22</label> Thou askes whether they are carried on by the po<g ref="char:EOLhyphen"/>wer of God in their faſtings and abſtinence from meate, when they are not fatter and fairer then they was before, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Canſt thou judge what power <hi>David</hi> was carried on by, whoſe knees was weake through faſting, and his fleſh<note place="margin">Pſal. 109. 24. 25.</note> failed of fatneſs; whereby he became a reproach to<note place="margin">Pſal. 1019. 70.</note> ſuch as thee, who looked on him; or did the three Chil<g ref="char:EOLhyphen"/>dren faſt which thou talks on that they was fairer: be<note place="margin">Pſal. 17. 10.</note> aſhamed of thy proof, and thy experience, thou declar<g ref="char:EOLhyphen"/>eſt of the Saints conditions, thou art more like one of thoſe whoſe hearts were fat as greece, and whoſe eies ſtood out with fatneſs; who ſpeaks wickedly and lofti<g ref="char:EOLhyphen"/>ly, one of the ungodly who proſpers in this world who increaſes in riches, which <hi>David</hi> ſpoke of <hi>Pſal.</hi> 73: and ſuch was ever ſcoffers at the Saints faſtings: that in thy conſcience ſhall witneſs it.</p>
+            <pb n="21" facs="tcp:116478:12"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>23</label> Thou askes if we under a pretence of crying up new light we do not bring people back to the ſame frame of Spirit, under which they were when they firſt made a profeſſion of godlineſs, as crying out againſt pride and other groſs ſins, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> The light of Chriſt is new to thee who art the old man and the Child of darkneſs, though it be the ſame that was from the beginning, which we cry out againſt pride and all groſs ſins, which thou who art groſs in thy ſpirituall pride art an enemie to, and carping againſt; and after confeſſes that they are good in themſelves, and needfull to be knowne, ſo an enemie thou art to that which is good, and an oppoſer of that which is need<g ref="char:EOLhyphen"/>full to be knowne: out of thine own mouth be thou judged, and whereas thou talks of progreſs in godlineſs I ſay godlineſs thou art an enemie to; and thy pro<g ref="char:EOLhyphen"/>greſs is in oppoſition to it, denying the light of Chriſt and his infallible Spirit, and ſo with the Spirit of Anti-Chriſt art thou pleading for Preiſts and hirelings, ſuch as are of thine own Spirit, which the Spirit of Chriſt beares witneſs againſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>24</label> Thou askeſt whether we do beleive that the Scriptures that ſpeaks of quaking and trembling are to be under<g ref="char:EOLhyphen"/>ſtood of the quaking and trembling of the joynts, limbs and members of the fleſhly body of the Creature: and whether there may not be this trembling in a perfon unwrought upon by the power of God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> The Scriptures are true what they ſpeake, but they could never be underſtood by thy fallible Spirit, which is contrary to that which gave them forth, which is in<g ref="char:EOLhyphen"/>fallible, &amp; ſo to thee they are a parable, who art in that generation, that would wreſt them to thy own deſtru<g ref="char:EOLhyphen"/>ction,<note place="margin">2 Pet. 3. 16</note> and the deſtruction of others, which were given forth to be fullfilled, and not to be wreſted, to the un<g ref="char:EOLhyphen"/>derſtanding of the carnall Spirit. And this trembling ſpoken on in the Scripture is not without the power of
+<pb n="22" facs="tcp:116478:13"/> God, yet there may be a work upon the ſoule, without this trembling of the body: but who art thou that would limit him which knows neither of theſe who without the light of Chriſt and the infallible Spirit in thee, art judging in thy dark mind, how God looks up<g ref="char:EOLhyphen"/>on man; falſely accuſing us, for putting literall ſenſes upon the ſcriptures which is thine own work, who art ſenſuall, having not the Spirit, thy ſence muſt be literall and carnall, and deviliſh.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>8</label> In this Query thou askeſt, if our maine drift be not to bring men that are begun in the Spirit to look after per<g ref="char:EOLhyphen"/>fection from the fleſh: and thou ſaies there is little or nothing in our teaching or writing, that a ſoule ſpiritu<g ref="char:EOLhyphen"/>allized can cloſe with, but rather ſuch things as do e<g ref="char:EOLhyphen"/>clipſe and darken the Spirits teaching, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> What Spirit is it that thou art begun in who denies the infallible Spirit to be in thee is not that the Spirit of Satan which is fallible, and our maine drift is to bring people from that Spirit, by the light of Chriſt to him that is infallible which thou oppoleſt, ſo let all judge who knowes any thing of light and of the Spirit, be wit<g ref="char:EOLhyphen"/>neſſes againſt thee, whether it be not by exhorting peo<g ref="char:EOLhyphen"/>ple to mind the light of Chriſt and the moving of the Spirit of God within them that darkens the Spirits teaching: or thou who denies the light of Chriſt and the infallible Spirit, to ſet up a viſible teacher in its ſtead. And whereas thou askeſt what brought the Galathians who had begun in the Spirit, back, to look after perfecti<g ref="char:EOLhyphen"/>on in the fleſh. I ſay it was ſuch as thou who bewitched<note place="margin">Gall. 3.</note> them and led them back from the teachings of the Spirit unto the letter and carnall Ordinances, and Ruidments which is thy work now, and ſo have been with thy que<g ref="char:EOLhyphen"/>ry and thy practice, and thy lies, who ſaies we ſeek to Captivate the Lords People: to bring them from liber<g ref="char:EOLhyphen"/>ty to bondage: to bring them to tremblings and feares,<note place="margin">Phill. 2. 12.</note> which are no waies conſiſtent with the Goſpel Mini<g ref="char:EOLhyphen"/>ſtration;
+<pb n="23" facs="tcp:116478:13"/> that nothing from us is heard ſutable to the teachings of the Spirit, that we ſeldome or never ſpeake of ſuch truths: Of the Spirits teaching, and convictions: Of Chriſt formed in the Saints: Of Chriſt in us the hope of glory: Of our being compleat in him: Of Communion with the Father through him; Of pray<g ref="char:EOLhyphen"/>er in the Spirit: Of Gods revealing his mind to his people by the Spirit. And thou ſaies we have a deſigne yet unknowne, and that we are carryed out by another Spirit, then the Spirit of the new Teſtament. Which are ſo many lying ſlanders, heaped againſt us in one query, which I ſend thee back into the pit from whence they came till thou prove them againſt us: herein thy Spirit is ſeene by his fruits, not to be infallible, but art making a refuge of lies to ſave thy Image from the ſword.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>26</label> And in thy next Query thou adde divers more lies under the pretence of a doubtfull Queſtion, whether we do not at laſt come to deny the reſurrection; To deny the Scriptures and their authority; To deny God; To deny Chriſt, and the Spirit and all (and yet thou ſaies thou ſees but our outſides, though thou thus judge what we will doe) and that our teachers are but imitators; That our union is not ſo great as people imagine; That we have branched our ſelves into ſeverall ſorts. As walk<g ref="char:EOLhyphen"/>ing, ſinging, creeping naked; And virgin-Quakers. And in time will break out into as many ſorts of orders as there are of Fryars, and thou ſaies Satan muſt diſco<g ref="char:EOLhyphen"/>ver himſelfe though he looſe all. I ſay whoſoever knowes Satans works in the leaſt meaſure of light may ſee him ſufficiently diſcovered in theſe two queries, and a great deal of his Treaſure thou haſt brought forth; above twenty lies all laid at ſtake, and all in vaine and like to be loſt, and ſwept away, and the ſnake in the graſs which thou tells on, which lay hid, thou haſt brought into the high way, but to no purpoſe, but that his head might be bruiſed.</p>
+            <pb n="24" facs="tcp:116478:14"/>
+            <p>
+               <hi>Query</hi> 27. In this Query thou askeſt, if it be not the great work of Chriſtians to expect the comming of Chriſt, their glorious Bridegroom to marry him to himſelf, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I ſay, Chriſts comming will be a black day to thee, and all the Generation of Lyars and ſlanderers: he comes to glorifie none ſuch, nor marry them to him, thou art married to the Devil, and brings forth of his his brood abundantly: therefore depart from iniquity, till then ceaſe to take Chriſt into thy polluted lips, who ſtill goes on bringing forth thy venom to caſt upon us, as though we perſwaded the Saints, that the Bride<g ref="char:EOLhyphen"/>groom is gone, and will not return: And that we in effect deprive Gods people of all ſociety with their Bridegroom: and that we evidently declare that we are ignorant of his glorious approaching: wherein thou e<g ref="char:EOLhyphen"/>vidently declares, that when the Ethiopian can change his skin, then thou wilt leave falſe accuſing and ſlander<g ref="char:EOLhyphen"/>ing.</p>
+            <p>And thou tells of the Children of the Bride-Cham<g ref="char:EOLhyphen"/>ber, cannot mourn while the Bridegroom is with them, and of putting people into a watching frame of ſpirit. I ſay, what Bridegroom knowes thou with thee, who de<g ref="char:EOLhyphen"/>ny the light of Chriſt, and the infallible ſpirit in thee: And what ſpirit wilt thou watch withall, the lying ſpi<g ref="char:EOLhyphen"/>rit never knew him, nor muſt not enter with him, but is ſhut out with the Sorcerers and Whoremongers.</p>
+            <p>
+               <hi>Query</hi> 28. In this thou askeſt whether our tenents ſhall not decay and fall, as Satan is diſcovered in his myſterious actings, &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> I anſwer: no, as Satan is diſcovered with his lies and filthineſs, ſo ſhall the light of Chriſt, and the infallible ſpirit be advanced, which diſcovers all inven<g ref="char:EOLhyphen"/>tions new and old, and all Satans myſterious actings, whereby you cannot long continue in your forms, and changeable wayes, invented lies and ſlanders, covered over with a profeſſion whereby the Nation is decei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed,
+<pb n="25" facs="tcp:116478:14"/> which deceivers with him are for the bottomleſs pit. But our ſafety, and the ſafety of all Chriſtians is to dwell in the light of Chriſt, and his Spirit, and ſo to withdraw from all diſorderly walkers, hypocrites, lyers, and ſlan<g ref="char:EOLhyphen"/>derers; who have not the Spirit, are out of the light, enemies to purity, who are under the power of the man of ſin, fighting againſt God, reproaching his Spirit, deny<g ref="char:EOLhyphen"/>ing his light under a pretence of exhorting the Lords people which is thy work, exhorting them to returne to their former works.</p>
+            <p>I ſay what works would thou have them to return to, who are yet in the world and never was out of it; they make a bad returne who ever knew any thing of God and returne to thee and thy practice, who art oppoſing the light, reproaching the Spirit; pleading for tythes and hirelings, preiſts, heaping up lies and ſlanders too many to be numbered, for all which thou ſhalt anſwer, as that in thy conſcience ſhal witneſs againſt thee herein if thou it minde though the truth thou canſt not touch, for as the lyer, and envious one is diſcovered, ſo our te<g ref="char:EOLhyphen"/>nents, which are in the truth, the light and Spirit, which cannot lie, ſhall proſper: ſo behold thy Queries, &amp; when thou writes againe, learne to write rruth, and prove thy ſlander before thou ſpread it; and mind that which leads thee to doe as thou would be done unto, and thou wilt ſee the lyers mouth ſtopt, the ſlanderer and falſe accuſer.</p>
+            <p>And now I ſhall ſend thee back the ſumme of thy que<g ref="char:EOLhyphen"/>ries, and of that which thou oppoſeſt, in theſe few words to which thou mayeſt returne an anſwer, when thou haſt learned to ſpeak truth. Firſt whether is not the mi<g ref="char:EOLhyphen"/>niſtration of law, and Goſpel both by one Spirit, and both for one end, to wit, to hold forth Chriſt; And whether the miniſtration ingraven in ſtone, be done a<g ref="char:EOLhyphen"/>way in the matter of it, or in the letter of it, or both, or can it paſſe away as to any particular man or woman till it be fullfilled; And whether is the law of the Spirit of life, and the Covenant of grace, within or without, or
+<pb n="26" facs="tcp:116478:15"/> where is it to be known by them that ſeeke it; whe<g ref="char:EOLhyphen"/>ther woe to the wicked be not a Goſpel miniſtration, &amp; is there any entrance into the Kingdome but through the woes and tribulation: whether thee and thou, de<g ref="char:EOLhyphen"/>clareing againſt tythes and hirelings, was not the pra<g ref="char:EOLhyphen"/>ctice of Chriſt and the Apoſtles, and is not that the Spi<g ref="char:EOLhyphen"/>rit of Satan, that was and is offended at their practice now, and then; and is their language and practice, an af<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ront to Majeſtrates now, more than then: whether Chriſt in Spirit, or the letter, be the rule of Chriſtians and guide in all things? And can any thing be ſufficient for a ground of faith, but that Spirit which is infallible? is the way of God, new or old to the world? doth Chriſt enlighten every man that comes into the world, or no? if not, who is it that is not enlightned, and what ſhall be his Condemnation, or his guide? and was that light, <hi>John</hi> came to witneſs, <hi>Iohn</hi> 1. 9. a naturall light, or the light of Chriſt? And was John an Ido<g ref="char:EOLhyphen"/>later, in preaching that light, that through him all might beleive in it? whether the Saints did quake and tremble as the Scripture ſpeaks, or ſome other thing? whether any who have not the infallible Spirit can judge of any thing of God aright? or, hath any ſuch, any diſpenſation of the Spirit of truth? is perfection a thing to be beleived, and preached, in the Goſpel yea or no? muſt not all religions whatſoever change (or do worſe) who have not an infallible Spirit, and foundation? is faſting a ſin under the Goſpel, if God ſo command? Is the light of Chriſt legall bondage, or doth it lead, from the Spirit to be made perfect in the fleſh, or doth any o<g ref="char:EOLhyphen"/>ther thing diſcover the myſterious actings of Satan, but the infallible Spirit in the light of Chriſt?</p>
+            <p>Here being the ſumme of thy queries, give thy an<g ref="char:EOLhyphen"/>ſwer in truth and plaineneſs, thereto, and thou may diſcover thy foundation, more plaine, to the ſimple, that yet ſee thee not; but who are in the light, needs no far<g ref="char:EOLhyphen"/>ther diſcovery, then what already is.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
